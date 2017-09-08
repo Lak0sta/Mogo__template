@@ -63,7 +63,8 @@ h3{
   box-shadow: 5px 2.5px 5px  #808080;
   opacity: 1;
   width: 88%;
-
+  text-align: center;
+  height: 15%;
 }
 .no-pad{
   padding-left: 0;
@@ -446,8 +447,8 @@ h3{
 .crossp__phone{
   max-width: 100%;
   position: absolute;
-  top: 55vh;
-  right: 15.5vw;
+  top: 48%;
+  right: 20%;
 
 }
 .service{
@@ -707,6 +708,7 @@ table{
   padding: 0;
   border-collapse: collapse;
   border-spacing: 0;
+  margin: auto;
 }
 .ourworks__gallery td{
   width: 25%;
